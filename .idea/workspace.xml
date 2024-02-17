@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a3a1f6e-0ca5-4f4b-880c-60e21280a8fb" name="Changes" comment="Added a line in README">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop"
+    "git-widget-placeholder": "feature__1"
   }
 }]]></component>
   <component name="RunManager">
@@ -79,7 +78,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708157798586</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="develop branch">
+      <option name="closed" value="true" />
+      <created>1708164913908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708164913908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feature 1 branch">
+      <option name="closed" value="true" />
+      <created>1708165124468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708165124468</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +111,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a line in README and added unversioned files" />
     <MESSAGE value="Added a line in README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a line in README" />
+    <MESSAGE value="develop branch" />
+    <MESSAGE value="feature 1 branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature 1 branch" />
   </component>
 </project>
