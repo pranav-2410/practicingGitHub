@@ -1,4 +1,4 @@
 # practicingGitHub
 
 its  a repo just to practice 
-Feature2 from develop
+its a feature 1 branch
