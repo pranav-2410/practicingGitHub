@@ -1,2 +1,4 @@
 # practicingGitHub
-New line in feature_1
+
+its  a repo just to practice 
+Feature2 from develop
