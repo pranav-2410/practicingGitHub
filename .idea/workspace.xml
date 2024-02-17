@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a3a1f6e-0ca5-4f4b-880c-60e21280a8fb" name="Changes" comment="Added a line in README and added unversioned files">
+    <list default="true" id="9a3a1f6e-0ca5-4f4b-880c-60e21280a8fb" name="Changes" comment="Added a line in README">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,11 +70,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708156764333</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a line in README">
+      <option name="closed" value="true" />
+      <created>1708157798586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708157798586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a line in README and added unversioned files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a line in README and added unversioned files" />
+    <MESSAGE value="Added a line in README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a line in README" />
   </component>
 </project>
