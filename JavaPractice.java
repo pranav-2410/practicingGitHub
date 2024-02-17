@@ -12,6 +12,7 @@ public class JavaPractice {
         List<String> editedNames= names.stream().map(name->name+"1").toList();
         System.out.println(editedNames);
         JavaPractice.printYourName(names);
+        //just to test
     }
 
     public static void printYourName(List<String> names){
